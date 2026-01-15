@@ -1,0 +1,14 @@
+git clone
+git add filename
+git commit-m
+git add . //show hidden files also
+git add * //show only public file
+git checkout -b  filename //
+git branch
+git switch
+git log
+git pull origin
+git push -u origin
+git status
+git help // It help
+git c // If we stuck in git 
